@@ -1,0 +1,1 @@
+{"pages":[],"posts":[{"title":"jetbrains 全家桶激活","text":"解压文件将补丁解压到一个固定的目录。激活补丁的位置不要更换，否则激活之后还会失效 激活 拖入补丁后会弹框，点击 restart 重启 idea： 配置助手会提示您，需要使用哪种激活方式，这里我们选择默认的 Activation Code 这里的安装目录不变 安装参数填写压缩包中的安装参数.txt里的内容 点击为IDEA 安装，重启IDEA 验证进入IDEA 界面点击 Help -&gt; Register 查看激活时间 文件下载链接","link":"/2020/09/23/jetbrains-activation/"}],"tags":[],"categories":[]}

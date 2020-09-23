@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Life</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://biubiubiu.mobi/"/>
+  <updated>2020-09-23T15:32:15.852Z</updated>
+  <id>http://biubiubiu.mobi/</id>
+  
+  <author>
+    <name>Avery Lee</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jetbrains 全家桶激活</title>
+    <link href="http://biubiubiu.mobi/2020/09/23/jetbrains-activation/"/>
+    <id>http://biubiubiu.mobi/2020/09/23/jetbrains-activation/</id>
+    <published>2020-09-23T15:32:15.852Z</published>
+    <updated>2020-09-23T15:32:15.852Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="解压文件"><a href="#解压文件" class="headerlink" title="解压文件"></a>解压文件</h3><p>将补丁解压到一个固定的目录。<strong>激活补丁的位置不要更换，否则激活之后还会失效</strong></p><h3 id="激活"><a href="#激活" class="headerlink" title="激活"></a>激活</h3><ul><li>拖入补丁后会弹框，点击 restart 重启 idea：<br></li><li>配置助手会提示您，需要使用哪种激活方式，这里我们选择默认的 Activation Code<br></li><li>这里的安装目录不变 安装参数填写压缩包中的安装参数.txt里的内容<br></li><li>点击为IDEA 安装，重启IDEA</li></ul><h3 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h3><p>进入IDEA 界面点击 Help -&gt; Register 查看激活时间<br></p><p><a href="https://getyxh-my.sharepoint.com/:u:/g/personal/liyutg_getyxh_onmicrosoft_com/EcIuQ2YVfNFJsXOrwYW26IgBoFbzYfZOu6kqV3Wk8ti8Fw?e=v2d2fu">文件下载链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;解压文件&quot;&gt;&lt;a href=&quot;#解压文件&quot; class=&quot;headerlink&quot; title=&quot;解压文件&quot;&gt;&lt;/a&gt;解压文件&lt;/h3&gt;&lt;p&gt;将补丁解压到一个固定的目录。&lt;strong&gt;激活补丁的位置不要更换，否则激活之后还会失效&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
